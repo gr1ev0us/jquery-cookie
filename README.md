@@ -1,3 +1,7 @@
+todo:
+$.cookie("validate", "1", { expires: 31, path: '/' }) typeof 1 - int
+$.cookie("validate") typeof 1 - string
+
 # IMPORTANT!
 
 This project was moved to https://github.com/js-cookie/js-cookie, check [the discussion](https://github.com/carhartl/jquery-cookie/issues/349).
